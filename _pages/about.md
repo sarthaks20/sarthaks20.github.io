@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Researcher at Indian Intitute of Technology, Delhi
+subtitle: Undergraduate Researcher at Indian Institute of Technology, Delhi
 profile:
   align: right
   image: prof_pic.jpg
