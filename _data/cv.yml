@@ -42,7 +42,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">Peridynamics-Based Modeling of Nanoindentation Behavior of Silicate Glass</a>
-      institution: Advisor: [Dr. N. M. Anoop Krishnan, IIT Delhi](https://web.iitd.ac.in/~krishnan/)
+      institution: Advisor <a href="https://web.iitd.ac.in/~krishnan/">Dr. N. M. Anoop Krishnan, IIT Delhi</a>
       year: 2022 - Present
       description:
         - Developing a peridynamics-based numerical model to investigate the nanoindentation behavior of silicate glass under varying tip angles of the indenter, providing insights into the microscale mechanical behavior of the material
