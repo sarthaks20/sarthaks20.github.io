@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bachelor of Technology in Civil Engineering at Indian Intitute of Technology, Delhi
+subtitle: Undergraduate Researcher at Indian Intitute of Technology, Delhi
 profile:
   align: right
   image: prof_pic.jpg
@@ -27,4 +27,4 @@ I am a [Civil Engineering](https://civil.iitd.ac.in/) undergraduate from the [In
 
 During my time at IIT Delhi, I have worked on several research projects that have helped me develop my skills and knowledge in the field of civil engineering. In addition to my research work, I also have experience in competitive programming and possess technical skills in programming languages such as C++, Python, Java, Julia, and software and tools such as Microsoft Office, Visual Studio Code, STAAD.Pro, Abaqus FEA, and MATLAB.
 
-I am always eager to learn and explore new technologies and methodologies in my field. In the future, I plan to pursue higher studies and specialize in structural engineering or computational mechanics. I am confident that my skills, coupled with my dedication and hard work, will enable me to excel in my chosen field and make valuable contributions to the scientific community.
+I am always eager to learn and explore new technologies and methodologies in my field. In the future, I plan to pursue higher studies and specialize in computational structural mechanics. I am confident that my skills, coupled with my dedication and hard work, will enable me to excel in my chosen field and make valuable contributions to the scientific community.
