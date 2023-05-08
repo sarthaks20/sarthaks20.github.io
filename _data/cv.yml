@@ -42,12 +42,48 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">Peridynamics-Based Modeling of Nanoindentation Behavior of Silicate Glass</a>
-      institution: Advisor <a href="https://web.iitd.ac.in/~krishnan/">Dr. N. M. Anoop Krishnan, IIT Delhi</a>
+      institution: <i>Advisor: <a href="https://web.iitd.ac.in/~krishnan/">Dr. N. M. Anoop Krishnan</a></i>
       year: 2022 - Present
       description:
         - Developing a peridynamics-based numerical model to investigate the nanoindentation behavior of silicate glass under varying tip angles of the indenter, providing insights into the microscale mechanical behavior of the material
         - Validating the numerical model using finite element analysis (FEA) software ABAQUS, demonstrating the accuracy and reliability of the proposed model in predicting the nanoindentation response of silicate glass
         - Conducting upscaling analysis to investigate the macroscopic behavior of silicate glass under different nanoindentation conditions, providing a better understanding of the mechanical properties of the material at the macroscale level
+  
+    - title: <a href="https://github.com/alshedivat/al-folio">Stability of Steel Columns at Elevated Temperatures: A Finite Element Study</a>
+      institution: <i>Advisor: <a href="http://www.matsagar.org/">Dr. Vasant Matsagar</a></i>
+      year: 2022
+      description:
+        - Eigen value problem to determine the buckling load through FE formulation showed convergence with Euler’s formula
+        - Stresses were evaluated under thermo-mechanical loading for various boundary conditions of the column
+        - Performed non-linear analysis of columns using Modified Riks approach in ABAQUS; determined critical thermomechanical stresses and facilitated the performance of post-buckling analysis until collapse
+
+    - title: <a href="https://github.com/alshedivat/al-folio">The Application of Machine Learning to Structural Health Monitoring</a>
+      institution: <i>Advisor: <a href="https://sites.google.com/view/sahilbansal/">Dr. Sahil Bansal</a></i>
+      year: 2021
+      description:
+        - Devised a vibration-based damage-detection approach using AI methods on time response simulated data
+        - Extracted different damage-sensitive features based on signal statistics and modal properties; analyzed signal response time-series using AR and ARX models; proposed statistical model for feature discrimination
+        - Ranked damage-sensitive features and employed support vector machines to classify structural condition states
+        
+    - title: <a href="https://github.com/alshedivat/al-folio">Transverse Vibration Analysis of Euler-Bernoulli Beam</a>
+      institution: <i>Advisor: <a href="https://web.iitd.ac.in/~pnair/">Dr. Prapanch Nair</a></i>
+      year: 2022
+      description:
+        - Derived an explicit finite difference scheme with second order accuracy by discretizing the governing equations
+        - Implemented Python script for computation of natural frequencies of vibration, mode shapes, and vibration response of the elastic beam for different boundary conditions, viz. fixed-fixed, fixed-pinned, pinned-pinned, and fixed-free
+        - von Neumann analysis was done to establish stability requirements of the solution, explicit FD scheme was found to be conditionally stable and convergent; compared the results with analytical solution to validate the approach
+
+    - title: Structural Design using STAAD.Pro | <i>Structural Design & Detailing</i>
+      year: 2022
+      description:
+        - Designed and analyzed the structures of hostel campus comprising five blocks of G+10 storey buildings, reinforced concrete overhead water tank, industrial shed truss, and transmission tower using AutoCAD and STAAD.Pro
+        - Resistance to earthquake and wind loads were incorporated into the structural design process as per Indian Standards
+
+    - title: Food Outlet Management System | <i>Data Structures & Algorithms</i>
+      year: 2021
+      description:
+        - Developed a simulation environment for a food outlet having facility of multiple ordering/billing counters and food delivery on first-order-first-serve basis; implemented Priority Queue, AVL Tree, Array Deque based data structures
+        - Statistics like average waiting time, average queue length were computed in order to improve customer service
 
 - title: Scholastic Acheivements
   type: time_table
@@ -57,7 +93,7 @@
         - Awarded the <b>Summer Undergraduate Research Award (SURA), 2021</b> from Industrial R&D Unit, IIT Delhi 
     - year: 2021
       items: 
-        - <b>Online Judges:</b> Scored 5-star rating on <i>HackerRank</i> and 3-star (max. 1783 rating) on <i>CodeChef</i>
+        - <b>Online Judges:</b> Scored <b>5-star rating</b> on <i><a href="https://www.hackerrank.com/sarthak_iitd23">HackerRank</a></i> and <b>3-star (max. 1783 rating)</b> on <i><a href="https://www.codechef.com/users/sarthak_iitd23">CodeChef</a></i>
     - year: 2019
       items:
         - <b>JEE (Advanced):</b> Secured <b>All India Rank 1841 (top 1 percentile)</b> among 0.17 million candidates
@@ -85,7 +121,7 @@
     - name: Packages
       value: C++ STL, Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Selenium, Tesseract-OCR, OpenCV
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
