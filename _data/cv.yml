@@ -27,11 +27,11 @@
   contents:
     - title: Associate Software Engineer
       institution: SirionLabs, Gurugram, India
-      year: June, 2023 - Present
+      year: 2023 - Present
       
     - title: Summer Analyst (Business Intelligence Unit)
       institution: Axis Bank, Bangalore, India
-      year: June, 2022 - July, 2022
+      year: 2022
       description:
         - Built a web-scraping tool that extracts information related to employees’ salaries, revenues, capitals of an organization
         - Employed Selenium to automate web browser and interact with dynamic web pages; handled captcha recognition through OpenCV based character segmentation technique; analyzed the scraped data to gain useful business insights
@@ -65,11 +65,11 @@
         - Awarded the Summer Undergraduate Research Award (SURA), 2021 from Industrial R&D Unit, IIT Delhi 
     - year: 2021
       items: 
-        - Online Judges: Scored 5-star rating on HackerRank and 3-star (max. 1783 rating) on CodeChef
+        - {Online Judges:} Scored 5-star rating on HackerRank and 3-star (max. 1783 rating) on CodeChef
     - year: 2019
       items:
-        - JEE (Advanced): Secured All India Rank 1841 (top 1 percentile) among 0.17 million candidates 2019
-        - JEE (Main): Achieved All India Rank 1403 (top 0.1 percentile) among 1.2 million candidates
+        - {JEE (Advanced):} Secured All India Rank 1841 (top 1 percentile) among 0.17 million candidates 2019
+        - {JEE (Main):} Achieved All India Rank 1403 (top 0.1 percentile) among 1.2 million candidates
 
 # - title: Academic Interests
 #   type: nested_list
