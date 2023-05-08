@@ -11,7 +11,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -21,10 +21,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi, I'm Sarthak Shrivastava, a final year undergraduate student pursuing a Bachelor of Technology in Civil Engineering at the prestigious Indian Institute of Technology Delhi. I have a passion for structural engineering and computational mechanics, and my research interests lie in the fields of finite element analysis, peridynamics, structural health monitoring, machine learning, and modeling and simulation.
+Hello!
 
-During my academic journey, I have completed various projects that have helped me gain a better understanding of these subjects. One of my most significant projects involved applying machine learning techniques to structural health monitoring. This project aimed to predict structural damage using data from sensors installed on a structure. I also worked on transverse vibration analysis of Euler-Bernoulli beam, a finite element study of steel columns' stability at elevated temperatures, and a peridynamics-based modeling of nanoindentation behavior of silicate glass.
+I am a civil engineering undergraduate from the [Indian Institute of Technology Delhi](https://home.iitd.ac.in/). My research interests lie in structural engineering, computational mechanics, finite element analysis, peridynamics, structural health monitoring, machine learning, and modeling and simulation.
 
-Apart from my academic pursuits, I possess a wide range of technical skills that I have honed over the years. I am proficient in programming languages like C++, Python, Java, and Julia, and I have worked with software and tools such as Microsoft Office, Visual Studio Code, STAAD.Pro, Abaqus FEA, MATLAB, LATEX, and GitHub. I am also familiar with libraries like C++ STL, Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Selenium, Tesseract-OCR, and OpenCV.
+During my time at IIT Delhi, I have worked on several research projects that have helped me develop my skills and knowledge in the field of civil engineering. These projects include peridynamics-based modeling of nanoindentation behavior of silicate glass, the application of machine learning to structural health monitoring, stability of steel columns at elevated temperatures: a finite element study, and transverse vibration analysis of Euler-Bernoulli beam. In addition to my research work, I also have experience in competitive programming and possess technical skills in programming languages such as C++, Python, Java, Julia, and software and tools such as Microsoft Office, Visual Studio Code, STAAD.Pro, Abaqus FEA, and MATLAB.
 
 I am always eager to learn and explore new technologies and methodologies in my field. In the future, I plan to pursue higher studies and specialize in structural engineering or computational mechanics. I am confident that my skills, coupled with my dedication and hard work, will enable me to excel in my chosen field and make valuable contributions to the scientific community.
