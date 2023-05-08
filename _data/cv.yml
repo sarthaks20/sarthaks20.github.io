@@ -42,7 +42,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">Peridynamics-Based Modeling of Nanoindentation Behavior of Silicate Glass</a>
-      institution: <i>Advisor: <a href="https://web.iitd.ac.in/~krishnan/">Dr. N. M. Anoop Krishnan</a></i>
+      institution: <i>Advisor - <a href="https://web.iitd.ac.in/~krishnan/">Dr. N. M. Anoop Krishnan</a></i>
       year: 2022 - Present
       description:
         - Developing a peridynamics-based numerical model to investigate the nanoindentation behavior of silicate glass under varying tip angles of the indenter, providing insights into the microscale mechanical behavior of the material
@@ -50,7 +50,7 @@
         - Conducting upscaling analysis to investigate the macroscopic behavior of silicate glass under different nanoindentation conditions, providing a better understanding of the mechanical properties of the material at the macroscale level
   
     - title: <a href="https://github.com/alshedivat/al-folio">Stability of Steel Columns at Elevated Temperatures - A Finite Element Study</a>
-      institution: <i>Advisor: <a href="http://www.matsagar.org/">Dr. Vasant Matsagar</a></i>
+      institution: <i>Advisor - <a href="http://www.matsagar.org/">Dr. Vasant Matsagar</a></i>
       year: 2022
       description:
         - Eigen value problem to determine the buckling load through FE formulation showed convergence with Euler’s formula
@@ -58,7 +58,7 @@
         - Performed non-linear analysis of columns using Modified Riks approach in ABAQUS; determined critical thermomechanical stresses and facilitated the performance of post-buckling analysis until collapse
 
     - title: <a href="https://github.com/alshedivat/al-folio">The Application of Machine Learning to Structural Health Monitoring</a>
-      institution: <i>Advisor: <a href="https://sites.google.com/view/sahilbansal/">Dr. Sahil Bansal</a></i>
+      institution: <i>Advisor - <a href="https://sites.google.com/view/sahilbansal/">Dr. Sahil Bansal</a></i>
       year: 2021
       description:
         - Devised a vibration-based damage-detection approach using AI methods on time response simulated data
@@ -66,7 +66,7 @@
         - Ranked damage-sensitive features and employed support vector machines to classify structural condition states
         
     - title: <a href="https://github.com/alshedivat/al-folio">Transverse Vibration Analysis of Euler-Bernoulli Beam</a>
-      institution: <i>Advisor: <a href="https://web.iitd.ac.in/~pnair/">Dr. Prapanch Nair</a></i>
+      institution: <i>Advisor - <a href="https://web.iitd.ac.in/~pnair/">Dr. Prapanch Nair</a></i>
       year: 2022
       description:
         - Derived an explicit finite difference scheme with second order accuracy by discretizing the governing equations
