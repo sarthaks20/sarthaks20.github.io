@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: # Undergraduate Researcher at Indian Institute of Technology, Delhi
 
